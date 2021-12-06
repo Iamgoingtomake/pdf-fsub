@@ -2,3 +2,5 @@
 *.session
 *.pyc
 .idea
+.env
+BotzHub.session

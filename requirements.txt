@@ -2,3 +2,5 @@ pyTelegramBotAPI
 pillow
 pyMuPdf
 convertapi
+python-decouple
+telethon==1.22.0
